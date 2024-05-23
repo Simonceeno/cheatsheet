@@ -1,0 +1,44 @@
+/* General style */
+*{
+    box-sizing: border-box;
+}
+
+html{
+    background-color: blanchedalmond;
+}
+
+
+/* Specific style */
+h1, h2{
+    text-align: center;
+    margin: 20px auto;
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+/* Table style */
+table{
+    margin: auto;
+    padding: auto;
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    width: 75%;
+}
+
+thead{
+    color: white;
+    background-color: #dc143c;
+    text-align: center;
+}
+
+th{
+    padding:10px 0;
+    text-align: center;
+}
+
+.row-color-a{
+    background-color:rgb(255, 225, 231);
+}
+
+.row-color-b{
+    background-color:rgb(255, 236, 240);
+}
+
