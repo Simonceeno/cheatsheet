@@ -1,4 +1,4 @@
-#Cheatsheet
+# Cheatsheet
 
 This is a simple project in which I created a cheatsheet only using basic styling and HTML tables.
 
@@ -7,4 +7,4 @@ This is a simple project in which I created a cheatsheet only using basic stylin
 
 ------------
 
-###Thanks for taking a look!
+### Thanks for taking a look!
